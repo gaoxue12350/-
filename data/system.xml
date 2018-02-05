@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataDriven>
+    <url>http://eco.parkingwang.com/#/</url>
+    <login username="autoapi" password="123456" nick="自动化测试"></login>
+    <login1 username="autoap2" password="123453" nick="自动化测试"></login1>
+</DataDriven>
